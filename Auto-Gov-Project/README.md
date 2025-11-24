@@ -104,7 +104,7 @@ Tested against a dataset of **50 simulated prompts** (academic & corporate scena
 ## 📄 Case Study
 
 This project includes a comprehensive **4-Page Compliance Report** detailing the risk assessment methodology and architectural controls.
-👉 **[Download Report](Shrinand_Menon_AI_Compliance_Report.pdf).**
+👉 **[Download Report](autogov.pdf).**
 
 -----
 
@@ -123,4 +123,5 @@ This project includes a comprehensive **4-Page Compliance Report** detailing the
 
 ```
 ```
+
 
