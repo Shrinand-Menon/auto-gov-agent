@@ -114,8 +114,7 @@ This project includes a comprehensive **4-Page Compliance Report** detailing the
 *Computer Science & Business Systems Candidate*
 
   * **Focus:** AI Governance, Technical GRC, ISO 42001
-  * **LinkedIn:** [Your LinkedIn Profile Link]
-  * **Portfolio:** [Your Portfolio Link]
+  * **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/shrinand-s-menon-b53456296)]
 
 -----
 
@@ -123,6 +122,7 @@ This project includes a comprehensive **4-Page Compliance Report** detailing the
 
 ```
 ```
+
 
 
 
